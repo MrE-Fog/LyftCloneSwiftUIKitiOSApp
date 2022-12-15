@@ -1,0 +1,38 @@
+[
+  {
+    "title": "NDK",
+    "subtitle": "Bul Bulgaria 1",
+    "lat": 42.6847779,
+    "lng": 23.3190752
+  },
+  {
+    "title": "Office",
+    "subtitle": "Tsvetna Gradina 1B",
+    "lat": 42.6773,
+    "lng": 23.32078
+  },
+  {
+    "title": "Arena Armeez",
+    "subtitle": "1 Asen Yordanov",
+    "lat": 42.6692151,
+    "lng": 23.366191
+  },
+  {
+    "title": "Paradise Mall",
+    "subtitle": "Srebarna 1",
+    "lat": 42.6584382,
+    "lng": 23.3123966
+  },
+  {
+    "title": "Ivan Vazov Theater",
+    "subtitle": "5 Djakon Ignatii",
+    "lat": 42.697119,
+    "lng": 23.3228036
+  },
+  {
+    "title": "Le Petit Quché",
+    "subtitle": "16 Oborishte",
+    "lat": 42.6946825,
+    "lng": 23.3419224
+  },
+]
